@@ -34,9 +34,22 @@ body{
     color:rgb(4, 0, 255);
     font-style: oswald;
 }
+.book-container h5{
+    color: red;
+    font-style: oswald;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.book-container p{
+    
+    font-style: oswald;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 .book-container button{
-    background-color: rgb(4, 0, 255);
+    background-color: rgb(255, 0, 0);
     color: black;
     border-radius: 10px;
     padding-top: 5px;
